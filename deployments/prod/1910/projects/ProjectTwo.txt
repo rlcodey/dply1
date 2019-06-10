@@ -1,3 +1,3 @@
-Properties-ProjectTwo1910B18
-twofoo1910B18
-twofooCONF1910B18
+Properties-ProjectTwo1910B25
+twofoo1910B25
+twofooCONF1910B25
