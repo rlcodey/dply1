@@ -1,6 +1,6 @@
 Properties-ProjectOne1910B97
-onefoo1910B97
-onefooCONF1910B97
+onefoo1910B98
+onefooCONF1910B98
 onebar1910B97
 onebarCONF1910B97
 onebaz1910B97
